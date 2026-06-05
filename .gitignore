@@ -3,3 +3,9 @@ docs/.vitepress/dist/
 docs/.vitepress/cache/
 .vercel-tmp/
 .vercel/
+
+# 截图文件
+*.png
+*.jpg
+*.jpeg
+*.gif
